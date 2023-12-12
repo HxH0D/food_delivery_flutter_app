@@ -32,7 +32,6 @@ dev_dependencies:
   flutter_bloc:
   cloud_firestore:
   google_sign_in:
-  http:
   dio:
 
 
